@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dallinvetter/Documents/Academic/CS236/Project1/Automaton.h
+Token.h
+/Users/dallinvetter/Documents/Academic/CS236/Project1/Token.h
+
+/Users/dallinvetter/Documents/Academic/CS236/Project1/IDAutomaton.cpp
+IDAutomaton.h
+/Users/dallinvetter/Documents/Academic/CS236/Project1/IDAutomaton.h
+
+/Users/dallinvetter/Documents/Academic/CS236/Project1/IDAutomaton.h
+Automaton.h
+/Users/dallinvetter/Documents/Academic/CS236/Project1/Automaton.h
+
+/Users/dallinvetter/Documents/Academic/CS236/Project1/StringAutomaton.cpp
+StringAutomaton.h
+/Users/dallinvetter/Documents/Academic/CS236/Project1/StringAutomaton.h
+
+/Users/dallinvetter/Documents/Academic/CS236/Project1/StringAutomaton.h
+Automaton.h
+/Users/dallinvetter/Documents/Academic/CS236/Project1/Automaton.h
+
+/Users/dallinvetter/Documents/Academic/CS236/Project1/Token.h
+string
+-
+

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project1">
+				<Option output="/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/dallinvetter/Documents/Academic/CS236/Project1/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project1/fast">
+				<Option output="/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/dallinvetter/Documents/Academic/CS236/Project1/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dallinvetter/Documents/Academic/CS236/Project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/AddAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/AddAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/Automaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/ColonAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/ColonAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/ColonDashAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/ColonDashAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/CommaAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/CommaAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/CommentAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/CommentAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/FactsAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/FactsAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/IDAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/IDAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/LeftParenAutomata.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/LeftParenAutomata.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/Lexer.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/Lexer.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/MultiplyAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/MultiplyAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/PeriodAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/PeriodAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/Q_MARK.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/Q_MARK.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/QueriesAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/QueriesAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/RightParenAutomata.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/RightParenAutomata.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/RulesAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/RulesAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/SchemesAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/SchemesAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/StringAutomaton.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/StringAutomaton.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/Token.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/Token.h">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/main.cpp">
+			<Option target="Project1"/>
+		</Unit>
+		<Unit filename="/Users/dallinvetter/Documents/Academic/CS236/Project1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

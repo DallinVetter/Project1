@@ -1,0 +1,21 @@
+//
+// Created by Dallin Vetter on 9/15/21.
+//
+
+#ifndef PROJECT1_STRINGAUTOMATON_H
+#define PROJECT1_STRINGAUTOMATON_H
+
+#include "Automaton.h"
+
+class StringAutomaton : public Automaton {
+public:
+    StringAutomaton() : Automaton(TokenType::STRING){}
+    void S0(const std::string& input);
+    void S1(const std::string& input);
+    void S2(const std::string& input);
+private:
+    int commaCounter;
+};
+
+
+#endif //PROJECT1_STRINGAUTOMATON_H

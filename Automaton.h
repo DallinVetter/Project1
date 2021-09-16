@@ -7,7 +7,7 @@ class Automaton
 protected:
     int inputRead = 0;
     int newLines = 0;
-    int index = 0;
+    unsigned int index = 0;
     TokenType type;
 
 public:
@@ -39,6 +39,10 @@ public:
     virtual Token* CreateToken(std::string input, int lineNumber) { return new Token(type, input, lineNumber); }
 
     int NewLinesRead() const { return newLines; }
+
+    int GetInputRead() {return inputRead;}
+
+    void setTokenType (TokenType type_) {this->type = type_;}
 };
 
 #endif // AUTOMATON_H
